@@ -9,7 +9,7 @@ describe("the binarySearch(nums, target) function", function() {
   let submittedSolution;
 
   beforeEach(function() {
-    submittedSolution = new StudentSolution();
+    submittedSolution =  StudentSolution;
   })
 
   it("should be an inherited instance method", function() {
